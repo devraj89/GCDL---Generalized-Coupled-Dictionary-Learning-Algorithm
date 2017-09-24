@@ -1,4 +1,5 @@
-This code shows the GCDL implementation
+This code shows the GCDL implementation.
+The article is available here http://www.ee.iisc.ac.in/people/faculty/soma.biswas/pdf/mandal_gcdl_tip2016.pdf
 
 The code is setup to give results for the CUHK experiments 
 running it you are expected to get aroung 98% accuracy.
